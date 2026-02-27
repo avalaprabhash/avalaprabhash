@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **avalaprabhash/avalaprabhash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👋 Hi, I'm Prabhash Avala
+#👋 Hi, I'm Prabhash Avala
 
 🎓 B.Tech IT Undergraduate @ ANITS (2022–2026)
 💻 Full-Stack Developer | 🤖 Machine Learning Enthusiast | ☁️ Cloud Learner
