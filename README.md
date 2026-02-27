@@ -117,22 +117,6 @@ Hyperparameter tuning
 
 End-to-end ML pipeline experience
 
-📜 Certifications
-
-NPTEL – Programming in Java
-
-IBM SkillsBuild – Getting Started with AI
-
-Infosys Springboard – Introduction to Cloud Computing
-
-HP – Fundamentals of Data Analysis
-
-🤝 Leadership & Activities
-
-NSS Active Member @ ANITS
-
-National Level Hackathon Participant (Augmented Reality – Brain O Vision)
-
 📫 How To Reach Me
 
 📧 Email: prabhasavala7@gmail.com
