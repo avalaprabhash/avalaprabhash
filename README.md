@@ -14,3 +14,128 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👋 Hi, I'm Prabhash Avala
+
+🎓 B.Tech IT Undergraduate @ ANITS (2022–2026)
+💻 Full-Stack Developer | 🤖 Machine Learning Enthusiast | ☁️ Cloud Learner
+
+🚀 Who Am I?
+
+I'm a motivated and detail-oriented Information Technology student passionate about building real-world software solutions that are scalable, efficient, and impactful.
+
+I enjoy solving practical problems using:
+
+Clean system design
+
+Strong OOP principles
+
+Optimized ML models
+
+Responsive web applications
+
+From developing Banking Systems in Java to building ML-based traffic prediction models with 87% accuracy, I love turning ideas into working products.
+
+🔥 What I'm Currently Working On
+
+📊 Exploring advanced Machine Learning workflows
+
+🌐 Improving my Full Stack Development skills
+
+☁️ Learning more about Cloud Computing
+
+🧠 Strengthening DSA & problem-solving for competitive programming
+
+🚦 Enhancing ML model optimization & deployment strategies
+
+🛠 Tech Stack & Tools
+👨‍💻 Programming
+
+Java
+
+Python
+
+🌐 Web Technologies
+
+HTML
+
+CSS
+
+JavaScript
+
+🗄 Databases
+
+SQL
+
+DBMS Concepts
+
+Neon
+
+🧠 Core CS
+
+Object-Oriented Programming
+
+Operating Systems
+
+Computer Networks
+
+⚙️ Tools & Platforms
+
+Git & GitHub
+
+VS Code
+
+🏗 Featured Projects
+🏦 Bank Management System (Java)
+
+Secure authentication system
+
+Account creation, deposits, withdrawals
+
+Fund transfers & transaction history
+
+Strong OOP-based modular architecture
+
+Input validation & exception handling
+
+💰 Expense Tracker (Web App)
+
+Expense creation, editing & deletion
+
+Category-based classification
+
+Real-time summaries
+
+Client-side storage & dynamic updates
+
+🚦 TrafficTelligence (ML Web App)
+
+Random Forest Model – 87% Accuracy
+
+Advanced preprocessing & feature engineering
+
+Hyperparameter tuning
+
+End-to-end ML pipeline experience
+
+📜 Certifications
+
+NPTEL – Programming in Java
+
+IBM SkillsBuild – Getting Started with AI
+
+Infosys Springboard – Introduction to Cloud Computing
+
+HP – Fundamentals of Data Analysis
+
+🤝 Leadership & Activities
+
+NSS Active Member @ ANITS
+
+National Level Hackathon Participant (Augmented Reality – Brain O Vision)
+
+📫 How To Reach Me
+
+📧 Email: prabhasavala7@gmail.com
+
+🔗 LinkedIn: linkedin.com/in/prabhash-avala
+💻 GitHub: github.com/avalaprabhash
