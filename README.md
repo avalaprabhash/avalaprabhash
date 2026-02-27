@@ -84,38 +84,6 @@ Git & GitHub
 
 VS Code
 
-🏗 Featured Projects
-🏦 Bank Management System (Java)
-
-Secure authentication system
-
-Account creation, deposits, withdrawals
-
-Fund transfers & transaction history
-
-Strong OOP-based modular architecture
-
-Input validation & exception handling
-
-💰 Expense Tracker (Web App)
-
-Expense creation, editing & deletion
-
-Category-based classification
-
-Real-time summaries
-
-Client-side storage & dynamic updates
-
-🚦 TrafficTelligence (ML Web App)
-
-Random Forest Model – 87% Accuracy
-
-Advanced preprocessing & feature engineering
-
-Hyperparameter tuning
-
-End-to-end ML pipeline experience
 
 📫 How To Reach Me
 
